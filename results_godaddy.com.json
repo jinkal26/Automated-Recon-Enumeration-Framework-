@@ -1,0 +1,30 @@
+{
+  "godaddy.com": {
+    "ports": [80, 443],
+    "fingerprints": {
+      "80": "AkamaiGHost",
+      "443": "AkamaiGHost"
+    }
+  },
+  "www.godaddy.com": {
+    "ports": [80, 443],
+    "fingerprints": {
+      "80": "AkamaiGHost",
+      "443": "AkamaiGHost"
+    }
+  },
+  "shop.godaddy.com": {
+    "ports": [80, 443],
+    "fingerprints": {
+      "80": "AkamaiGHost",
+      "443": "AkamaiGHost"
+    }
+  },
+  "account.godaddy.com": {
+    "ports": [80, 443],
+    "fingerprints": {
+      "80": "AkamaiGHost",
+      "443": "AkamaiGHost"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "amazon.com": {
+    "ports": [80, 443],
+    "fingerprints": {
+      "80": "Server: Server",
+      "443": "Server: Server"
+    }
+  },
+  "www.amazon.com": {
+    "ports": [80, 443],
+    "fingerprints": {
+      "80": "Server: Server",
+      "443": "Server: Server"
+    }
+  },
+  "sellercentral.amazon.com": {
+    "ports": [80, 443],
+    "fingerprints": {
+      "80": "Server: Server",
+      "443": "Server: Server"
+    }
+  },
+  "images.amazon.com": {
+    "ports": [80, 443],
+    "fingerprints": {
+      "80": "Server: Server",
+      "443": "Server: Server"
+    }
+  },
+  "affiliate-program.amazon.com": {
+    "ports": [80, 443],
+    "fingerprints": {
+      "80": "Server: Server",
+      "443": "Server: Server"
+    }
+  }
+}
